@@ -20,6 +20,7 @@ Language used for Selenium test is Java.
 2. Open the Editor where project is imported
 3. Now right click on project and click on Show in Terminal
 4. Type mvn clean test or mvn test and hit enter
+
 **Method 2.**
 1. Using TestNG.xml file
 2. Open the Editor where project is imported
