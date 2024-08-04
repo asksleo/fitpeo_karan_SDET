@@ -8,6 +8,8 @@ Language used for Selenium test is Java.
 2. Go to New->Project->Import from Git
 3. Copy paste the git URL , https://github.com/asksleo/fitpeo_karan_SDET.git
 4. Click on Finish
+
+
 **#Now the Steps to run the above code**
 #There are two ways it can be run
 **Method 1.**
