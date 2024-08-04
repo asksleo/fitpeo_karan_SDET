@@ -11,14 +11,17 @@ Language used for Selenium test is Java.
 
 
 **#Now the Steps to run the above code**
+
 #There are two ways it can be run
+
 **Method 1.**
-#using Terminal window
-#Open the Editor where project is imported
-#Now right click on project and click on Show in Terminal
-#Type mvn clean test or mvn test and hit enter
+
+1. using Terminal window
+2. Open the Editor where project is imported
+3. Now right click on project and click on Show in Terminal
+4. Type mvn clean test or mvn test and hit enter
 **Method 2.**
-#Using TestNG.xml file
-#Open the Editor where project is imported
-#Search for testng.xml file in root.(/fitpeo_karan_SDET/testng.xml)
-#right click on file and run as testNG(All test performed with parallel classes)
+1. Using TestNG.xml file
+2. Open the Editor where project is imported
+3. Search for testng.xml file in root.(/fitpeo_karan_SDET/testng.xml)
+4. right click on file and run as testNG(All test performed with parallel classes)
